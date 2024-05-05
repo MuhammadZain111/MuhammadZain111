@@ -1,4 +1,4 @@
-![logo](https://github.com/MuhammadZain111/MuhammmadZain111/blob/main/LinkedIn%20Bannerr.png)
+![logo](https://github.com/MuhammadZain111/MuhammadZain111/blob/main/LinkedIn%20Bannerr%20(2).png)
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
