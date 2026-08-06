@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning PHP,Angular,Javascript **Laravel,Django**
+- 🌱 I’m currently learning DevOps and works on ** React Js, Next Js ,Express Js,Node Js, Nest Js, MongoDb , MySql **
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/muhammadzainz754](https://linktr.ee/muhammadzainz754)
 
