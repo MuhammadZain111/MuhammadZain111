@@ -47,11 +47,12 @@ A full-stack real-time messaging platform with user authentication, chat functio
 
 ### 🎬 ReelMind — AI Video RAG Chatbot and Analysis Platform
 
+🔗 [Live Demo](https://youtuberagchatbotvoxai-git-main-muhammad-zain-s-projects1.vercel.app) 
+
 An intelligent YouTube video analysis platform designed to process video content and enable AI-powered interaction with video data.
 
 **Tech:** FASTAPI, React,RAG,Lacgchain,TypeScript, Bun, Turborepo, AI Integration
 
-🔗 [Live Demo](https://youtuberagchatbotvoxai-git-main-muhammad-zain-s-projects1.vercel.app) 
 
 
 
