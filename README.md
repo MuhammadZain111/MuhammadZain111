@@ -1,6 +1,6 @@
 ![logo](https://github.com/MuhammadZain111/MuhammadZain111/blob/main/LinkedIn%20Bannerr%20(2).png)
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h3 align="center">A passionate AI Full-Stack Develope</h3>
 
 - 🌱 I’m currently learning DevOps and works on ** React Js, Next Js ,Express Js,Node Js, Nest Js, MongoDb , MySql **
 
